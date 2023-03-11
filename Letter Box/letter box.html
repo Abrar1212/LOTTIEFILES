@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            /* padding: 0;
+            margin: 0; */
+        }
+        .center-align{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            
+        }
+        .container{
+            height: 100vh;
+            padding: 1em;
+        }
+    </style>
+</head>
+<body id="ContainerBody">
+    <div class="container center-align" >
+        <div style="height: 25%;" class="center-align">
+            <h3 style="display: block; text-align: center; margin: 1em 0;">Background color change</h3>    
+            <input type="color" style="height: 25%;" onchange="test(this)" id="colourPicker">
+        </div>
+        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+        <div class="">
+            
+            <lottie-player src="letter box shape.json" background="transparent" speed="1" style="width: 500px; height: 500px;" loop controls autoplay> </lottie-player>
+        </div>
+    </div>
+
+    <script>
+        const getElementId = (ID)=>{
+        return document.getElementById(ID);
+        }
+
+        function test(t) {
+            getElementId('ContainerBody').style.backgroundColor = (t.value);
+        }
+    </script>
+    
+</body>
+</html>
