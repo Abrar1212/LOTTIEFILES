@@ -1,6 +1,6 @@
 # Outgoing
 
-## Live View - [Click ME](./Outgoing.html)
+## Live View - [Click ME](https://abrar1212.github.io/LOTTIEFILES/Outgoing%20Mail/Outgoing.html)
 
 ### lottiefiles
 
