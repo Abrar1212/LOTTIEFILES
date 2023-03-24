@@ -38,9 +38,8 @@
             </div>
             <div class="col d-flex justify-content-center flex-column" id="animation">
                 <div class="d-flex  justify-content-center" id="animationChild">
-                    <lottie-player src="letter box shape.json"  background="transparent" speed="1" style="width: 450px; height: 450px;" loop autoplay> </lottie-player>
-                    <lottie-player src="letter box shape 1.json"  background="transparent" speed="1" style="width: 450px; height: 450px;" loop autoplay> </lottie-player>
-                    <lottie-player src="letter box shape 3.json"  background="transparent" speed="1" style="width: 450px; height: 450px;" loop autoplay> </lottie-player>
+                    <lottie-player src="./assets/Lottie_1/LetterBox.json"  background="transparent" speed="1" style="width: 450px; height: 450px;" loop autoplay> </lottie-player>
+                    <lottie-player src="./assets/Lottie_2/LetterBox.json"  background="transparent" speed="1" style="width: 450px; height: 450px;" loop autoplay> </lottie-player>
                 
                 </div>
             </div>
@@ -66,9 +65,8 @@
             div.classList.add('d-flex', 'justify-content-center');
             div.innerHTML = 
             `
-                <lottie-player src="letter box shape.json"  background="transparent" speed="${count[i]}" style="width: 450px; height: 450px;" loop autoplay> </lottie-player>
-                <lottie-player src="letter box shape 1.json"  background="transparent" speed="${count[i]}" style="width: 450px; height: 450px;" loop autoplay> </lottie-player>
-                <lottie-player src="letter box shape 3.json"  background="transparent" speed="${count[i]}" style="width: 450px; height: 450px;" loop autoplay> </lottie-player>
+                <lottie-player src="./assets/Lottie_1/LetterBox.json"  background="transparent" speed="${count[i]}" style="width: 450px; height: 450px;" loop autoplay> </lottie-player>
+                <lottie-player src="./assets/Lottie_2/LetterBox.json"  background="transparent" speed="${count[i]}" style="width: 450px; height: 450px;" loop autoplay> </lottie-player>
             `
             const RemoveElementId = getElementId('animation');
             RemoveElementId.removeChild(RemoveElementId.firstElementChild);
