@@ -2,9 +2,9 @@
 
 ## Preview - [Click ME](https://abrar1212.github.io/LOTTIEFILES/Letter%20Box/letter%20box.html)
 
-# lottiefiles
+# Lottiefiles
 
-# LetterBox Lottie - 1
+## LetterBox Lottie - 1
 
 ![img-0](assets/Lottie_1.gif)
 
