@@ -2,7 +2,7 @@
 
 ## Preview - [Click ME](https://abrar1212.github.io/LOTTIEFILES/Letter%20Box/letter%20box.html)
 
-### lottiefiles
+# lottiefiles
 
 # LetterBox Lottie - 1
 
@@ -19,3 +19,9 @@
 ### [JSON CODE](./assets/Lottie_2/LetterBox.json)
 
 ### [LOTTIE CODE](./assets/Lottie_2/LetterBox.lottie)
+
+![img-2](assets/Lottie_3.gif)
+
+### [JSON CODE](./assets/Lottie_3/LetterBox.json)
+
+### [LOTTIE CODE](./assets/Lottie_3/LetterBox.lottie)
