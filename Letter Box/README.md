@@ -12,13 +12,15 @@
 
 ### [LOTTIE CODE](./assets/Lottie_1/LetterBox.lottie)
 
-# LetterBox Lottie - 2
+## LetterBox Lottie - 2
 
 ![img-1](assets/Lottie_2.gif)
 
 ### [JSON CODE](./assets/Lottie_2/LetterBox.json)
 
 ### [LOTTIE CODE](./assets/Lottie_2/LetterBox.lottie)
+
+## LetterBox Lottie - 3
 
 ![img-2](assets/Lottie_3.gif)
 
